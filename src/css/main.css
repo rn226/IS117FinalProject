@@ -89,12 +89,14 @@ textarea {
    ========================================================================== */
 
 button {
-         color: #00ddf4;
-         background: #222222;
-         border: #222222;
+         color: #3db6c3;
+         background: #2d7b83;
+         border: #2d7b83;
          border-radius: 5px;
-
-
+	 font-family: Sans-serif;
+	 font-weight: bold;
+	 box-shadow: 3px 3px 3px #888888;
+	
 }
 
 
