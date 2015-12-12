@@ -102,9 +102,21 @@ button {
 
 } 
 
+.header img {
+float: left;
+width: 50px;
+height: 50px;
+;
+}
 
+.header h1 {
+position: relative;
+top: 5px;
+left: 10px;
+}
 
-
+.header navbar {
+height:600px;
 
 
 
@@ -161,6 +173,19 @@ button {
 }
 
 /*
+ * Hide visually and from screen readers, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
  * Hide visually and from screen readers, but maintain layout
  */
 
@@ -271,16 +296,3 @@ button {
     img {
         max-width: 100% !important;
     }
-
-    p,
-    h2,
-    h3 {
-        orphans: 3;
-        widows: 3;
-    }
-
-    h2,
-    h3 {
-        page-break-after: avoid;
-    }
-}
