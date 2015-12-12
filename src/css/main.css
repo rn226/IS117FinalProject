@@ -89,15 +89,18 @@ textarea {
    ========================================================================== */
 
 button {
-         color: #3db6c3;
+         color: #4ceeff ;
          background: #2d7b83;
          border: #2d7b83;
          border-radius: 5px;
 	 font-family: Sans-serif;
 	 font-weight: bold;
-	 box-shadow: 3px 3px 3px #888888;
-	
-}
+	 text-transform: uppercase;
+	 font-size: 12px;
+	 width: 206px;
+	 height: 38px;
+
+} 
 
 
 
