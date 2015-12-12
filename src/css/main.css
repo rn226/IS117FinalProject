@@ -88,7 +88,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+button {
+         color: #00ddf4;
+         background: #222222;
+         border: #222222;
+         border-radius: 5px;
 
+
+}
 
 
 
