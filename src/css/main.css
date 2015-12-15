@@ -113,6 +113,7 @@ padding-left: 20px;
 position: relative;
 top: 5px;
 left: 10px;
+
 color: #00737f;
 
 }
@@ -138,9 +139,9 @@ height: 600px;
 
 .section1 h2{
 color: #00737f;
-
-font-size:60 px;
-
+font-size:50px;
+padding-left:200px;
+padding-top:99px;
 font-family: sans-serif;
 }
 
