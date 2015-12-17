@@ -88,6 +88,10 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+h3 {
+color: #00737f;
+}
+
 button {
          color: #4ceeff ;
          background: #2d7b83;
