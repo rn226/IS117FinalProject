@@ -184,6 +184,29 @@ color:#00737f;
 
 }
 
+
+.footer td {
+    text-align: left;
+    color:#00737f;
+    }
+
+.footer  {
+background-color: #00ddf4;
+width: 100%;
+height: 400px;
+margin-top: 0px;
+margin-bottom:0px;
+padding-top:16px;
+padding-bottom: 16px;
+}
+
+.table {
+
+margin-top:30px;
+
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
