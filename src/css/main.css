@@ -99,8 +99,11 @@ button {
 	 font-size: 12px;
 	 width: 206px;
 	 height: 38px;
-
-} 
+	 }
+	 
+	 button:hover{
+	 background-color: black;
+	 }
 
 .header img {
 float: left;
@@ -165,7 +168,12 @@ margin-top:50px;
 
 }
 
+.feature button{
+float: center;
+margin-left: 525px;
+margin-top: 500px;
 
+}
 
 
 
