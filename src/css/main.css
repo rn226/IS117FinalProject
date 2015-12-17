@@ -90,6 +90,7 @@ textarea {
 
 h3 {
 color: #00737f;
+
 }
 
 button {
@@ -178,17 +179,24 @@ margin-left: 685px;
 margin-top: 600px;
 
 }
-
+.feature h3{
+font-size:20px;
+}
 .satisfaction p{
 color:#00737f;
 
 }
-
+.satisfaction h3{
+font-size:20px;
+}
 
 .footer td {
     text-align: left;
     color:#00737f;
     }
+.testimonial h3{
+font-size:20px;
+}
 
 .footer  {
 background-color: #00ddf4;
@@ -200,12 +208,41 @@ padding-top:16px;
 padding-bottom: 16px;
 }
 
-.table {
 
-margin-top:30px;
-
+.satisfaction {
+background-color: #ffffff;
+width: 100%;
+height: 400px;
+margin-top: 0px;
+margin-bottom:0px;
+padding-top:16px;
+padding-bottom: 16px;
+}
+.testimonial {
+background-color: #ffffff
+width: 100%;
+height: 400px;
+margin-top: 0px;
+margin-bottom:0px;
+padding-top:16px;
+padding-bottom: 16px;
 }
 
+.footer button{
+float: center;
+margin-left: 685px;
+margin-top: 40px;
+margin-bottom: 10px;
+}
+
+.footer h3{
+font-size: 50px;
+}
+.footer p{
+font-size: 16px;
+color:#00737f;
+text-align: center;
+}
 
 /* ==========================================================================
    Helper classes
