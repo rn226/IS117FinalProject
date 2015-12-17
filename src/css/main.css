@@ -174,12 +174,15 @@ margin-top:50px;
 
 .feature button{
 float: center;
-margin-left: 525px;
-margin-top: 500px;
+margin-left: 685px;
+margin-top: 600px;
 
 }
 
+.satisfaction p{
+color:#00737f;
 
+}
 
 /* ==========================================================================
    Helper classes
