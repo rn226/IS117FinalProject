@@ -117,7 +117,14 @@ height: 50px;
 padding-left: 20px;
 margin: 0px;
 }
-
+.section1 img{
+float: right;
+position: absolute;
+width: 1200px;
+height: 1200px;
+left: 800px;
+top: 0px;
+}
 .header h1 {
 position: relative;
 top: 5px;
