@@ -120,10 +120,10 @@ margin: 0px;
 .section1 img{
 float: right;
 position: absolute;
-width: 1200px;
-height: 1200px;
+width: 900px;
+height: 900px;
 left: 800px;
-top: 0px;
+top: 100px;
 }
 .header h1 {
 position: relative;
