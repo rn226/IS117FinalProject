@@ -191,12 +191,15 @@ font-size:30px;
 }
 .satisfation {
 height: 600px;
+font-family:sans-serif;
 }
 
 .satisfaction p{
 color:#00737f;
-
+margin-left: 300px;
+font-size:20px;
 }
+
 .satisfaction h3{
 font-size: 30px;
 }
