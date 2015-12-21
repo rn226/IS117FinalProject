@@ -183,12 +183,16 @@ margin-top:50px;
 .feature button{
 float: center;
 margin-left: 580px;
-margin-top: 600px;
+margin-top: 550px;
 
 }
 .feature h3{
 font-size:30px;
 }
+.satisfation {
+height: 600px;
+}
+
 .satisfaction p{
 color:#00737f;
 
@@ -201,8 +205,14 @@ font-size: 30px;
 padding-left:900px;
 color: #00737f;
 font-family:sans-serif;
+margin-top: -300px;
+height: 400px;
 }
 
+.form button{
+margin-top:10px;
+
+}
 
 .footer td {
     text-align: left;
@@ -210,6 +220,11 @@ font-family:sans-serif;
     }
 .testimonial h3{
 font-size: 30px;
+}
+.testimonial {
+margin-top: 100px;
+height:400px;
+width:100%
 }
 
 .footer  {
