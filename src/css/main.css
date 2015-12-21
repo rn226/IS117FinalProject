@@ -238,10 +238,14 @@ font-size: 30px;
 }
 .testimonial {
 margin-top: 100px;
-height:400px;
+height:600px;
 width:100%
 }
+.testimonial td{
+font-family:sans-serif;
+color:#00737f
 
+}
 .footer  {
 background-color: #00ddf4;
 width: 100%;
